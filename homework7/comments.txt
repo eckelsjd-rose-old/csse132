@@ -1,0 +1,35 @@
+Grader comments on Homework 7
+===========================================
+grade: 25/30
+
+
+problems.c  (10/10)
+====================================
+
+isWordChar():
+-----------------------------
+
+wordLen():
+-----------------------------
+
+
+
+
+censor.c  (15/20)
+====================================
+
+Makefile rule 5/5
+------------------------------
+
+
+main() function 5/10
+------------------------------
+a) If a 4-letter word is followed by symbols (for example "Test^^"), it is not censore in your code.
+   I think this is because you used strlen() instead of wordlen().
+b) The newline symbols are not preserved in the output.
+c) A symbol followed by a 3-letter word is treated as a 4-letter word in your code.
+
+I/O strategy 5/5
+------------------------------
+
+

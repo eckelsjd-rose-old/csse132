@@ -1,0 +1,23 @@
+Grader comments on codingpractice
+===========================================
+general comments:
+
+Parts 1,2 (part1.c):
+------------------------------
+
+transposeUpper:
+transposeLower:
+won't work for num > 51.
+
+transposeString:
+need to null terminate
+
+
+Part 3:
+------------------------------
+
+Makefile Rule for "process":
+
+process.c:
+good start, finish me!
+

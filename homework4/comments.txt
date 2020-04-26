@@ -1,0 +1,19 @@
+Grader comments on Homework 4
+===========================================
+grade: 40/40
+
+
+length():
+------------------------------
+
+lengthNoArrays():
+------------------------------
+
+bitDropper():
+------------------------------
+You can't access the bits directly. That's why we use bit-wise operations like & and | in this class.
+
+upcaseVowels():
+------------------------------
+
+Please delete the TODO comments when you're done.

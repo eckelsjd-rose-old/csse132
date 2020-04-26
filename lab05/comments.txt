@@ -1,0 +1,37 @@
+Grader comments on Lab 5
+===========================================
+grade: 95/100
+general comments:
+
+ Please remove TODOs when done.
+
+Part 1:
+------------------------------
+Makefile Rule:
+ Good, but I suggest you put the code near where the TODO says to put it!
+
+db_entry on stack:
+db_entry on heap:
+ Good
+
+
+Part 2:
+------------------------------
+
+dbe_alloc:
+ Can do this without the local variables!  Just assign output of malloc directly into struct members.
+
+dbe_free:
+do_add_entry:
+db_count_entries:
+db_remove:
+do_list_database:
+ Good
+
+db_find_one:
+  Can do this without local vars:
+  if(strncmp(target,database[i]->name, strlen(target)) == 0) { ...
+
+do_remove_first_match:
+  Good
+

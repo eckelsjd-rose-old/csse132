@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/eckelsjd/Documents/RHIT - Sophomore/CSSE 132/Lab/1819a-csse132-eckelsjd/lab02/work/add1b.xst" -ofn "C:/Users/eckelsjd/Documents/RHIT - Sophomore/CSSE 132/Lab/1819a-csse132-eckelsjd/lab02/work/add1b.syr" 
+sch2sym -intstyle ise -family spartan3e -refsym add1b {C:/Users/eckelsjd/Documents/RHIT - Sophomore/CSSE 132/Lab/1819a-csse132-eckelsjd/lab02/add1b.sch} {C:/Users/eckelsjd/Documents/RHIT - Sophomore/CSSE 132/Lab/1819a-csse132-eckelsjd/lab02/add1b.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym add1b {C:/Users/eckelsjd/Documents/RHIT - Sophomore/CSSE 132/Lab/1819a-csse132-eckelsjd/lab02/add1b.sch} {C:/Users/eckelsjd/Documents/RHIT - Sophomore/CSSE 132/Lab/1819a-csse132-eckelsjd/lab02/add1b.sym} 

@@ -1,0 +1,17 @@
+Grader comments on Homework 6
+===========================================
+grade: 28/30
+
+
+startsWith():
+------------------------------
+
+startsWithVowel():
+------------------------------
+
+pigify():
+------------------------------
+
+platin.c: You forgot to free the string malloced in pigify.
+------------------------------
+

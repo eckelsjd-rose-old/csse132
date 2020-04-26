@@ -1,0 +1,33 @@
+Grader comments on Lab 6
+===========================================
+grade: 100/100
+general comments:
+
+Parts 1,2:
+------------------------------
+db_print changes:
+getALine():
+  good
+
+
+Part 3:
+------------------------------
+q command:
+l command:
+a command:
+r command:
+  good
+
+
+Parts 4,5:
+------------------------------
+export/import:
+ good
+
+Part 6 (optional):
+------------------------------
+do_find_all_matches:
+  index will never be -1!  You do index++ after db_find_one returns -1.
+
+f command:
+
